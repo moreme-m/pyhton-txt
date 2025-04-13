@@ -1,4 +1,5 @@
-
+#file => a document that contains data, store
+#file handling => storing, organizing data, manipulation
 
 
 #__MODE__
